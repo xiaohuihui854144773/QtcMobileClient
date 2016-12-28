@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">掌上青职</string>
+    <string name="not_login">以后登录</string>
+    <string name="bt_login">登 录</string>
+    <string name="please_password">请输入密码</string>
+    <string name="please_username">请输入用户名</string>
+    <string name="app_title">掌 上 青 职</string>
+    <string name="student">学生</string>
+    <string name="teacher" >辅导员</string>
+    <string name="administrator" >管理员</string>
+    <string name="patriarch" >家长</string>
+</resources>
