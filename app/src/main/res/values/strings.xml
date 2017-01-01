@@ -6,7 +6,10 @@
     <string name="please_username">请输入用户名</string>
     <string name="app_title">掌 上 青 职</string>
     <string name="student">学生</string>
-    <string name="teacher" >辅导员</string>
-    <string name="administrator" >管理员</string>
-    <string name="patriarch" >家长</string>
+    <string name="teacher">辅导员</string>
+    <string name="administrator">管理员</string>
+    <string name="patriarch">家长</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
