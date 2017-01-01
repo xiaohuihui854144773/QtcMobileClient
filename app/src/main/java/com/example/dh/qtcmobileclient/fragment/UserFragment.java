@@ -13,6 +13,8 @@ import com.example.dh.qtcmobileclient.R;
  * A simple {@link Fragment} subclass.
  */
 public class UserFragment extends BaseFragment {
+    public static final String TAG = UserFragment.class.getSimpleName();
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

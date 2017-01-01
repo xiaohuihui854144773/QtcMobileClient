@@ -13,6 +13,8 @@ import com.example.dh.qtcmobileclient.R;
  */
 public class News_Fragment extends BaseFragment {
 
+    public static final String TAG = News_Fragment.class.getSimpleName();
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {

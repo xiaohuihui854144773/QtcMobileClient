@@ -14,6 +14,8 @@ import com.example.dh.qtcmobileclient.R;
  */
 public class MsgFragment extends BaseFragment {
 
+    public static final String TAG = MsgFragment.class.getSimpleName();
+
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
