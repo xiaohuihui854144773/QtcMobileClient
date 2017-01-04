@@ -9,6 +9,7 @@ import android.net.NetworkInfo;
  * Created by DH on 2016/12/28.
  */
 public class ConfigMsg {
+    public static final String ZYXW_URL="http://www.qtc.edu.cn/qzxw/zyxw.htm";
     public static final String BASE_URL = "http://www.qtc.edu.cn/";
     public static final String APP_ID = "com.example.dh.qtcmobileclient";
     public static final String APPKEY_ISLOGIN = "login";
